@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  base:
+    image: nilanjanb3/baseimage
+    # build: ./base/
+
+  host01:
+    image: nilanjanb3/baseimage
+    # build: ./base/
