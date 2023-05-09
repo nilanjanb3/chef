@@ -8,7 +8,8 @@ Here are some good reads of Chef
     * [03-What is Convergence?](https://stackoverflow.com/questions/30615588/difference-between-convergence-and-idempotence-in-chef) 
     * [03-What is Chef?](https://www.tutorialspoint.com/chef/chef_overview.htm)
     * [04-How chef work?](https://medium.com/nerd-for-tech/how-chef-works-eb4c7846819a)
-    * []()
+* 02-Chef Setup
+    * [01-Type of Chef servers](https://www.upguard.com/blog/chef-open-source-vs-hosted-chef-vs-on-premises-chef)
     * []()
     * []()
     * []()
