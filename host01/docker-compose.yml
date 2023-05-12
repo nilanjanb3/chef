@@ -1,0 +1,9 @@
+version: '3'
+services:
+  ubuntu:
+    image: ubuntu:18.04
+    volumes:
+      - data:/etc
+
+volumes:
+  data:
