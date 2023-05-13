@@ -22,7 +22,10 @@ Here are some good reads on Chef
     * [05-Chef run_list](https://docs.chef.io/run_lists/)
     * [06-include and dependency](https://docs.chef.io/recipes/#assign-dependencies)
     * [07-chef architecture with client-server](https://www.codingninjas.com/codestudio/library/chef-architecture)
-    * []()
+    * [08-What is ohai?](https://docs.chef.io/ohai/)
+    * [09-What is chef role?](https://www.tutorialspoint.com/chef/chef_roles.htm)
+    * [10-What is chef supermarket](https://www.chef.io/blog/using-chef-supermarket-a-guided-tour)
+    * [11-Chef test kitchen](https://www.tutorialspoint.com/chef/chef_test_kitchen_setup.htm)
 
     
 
