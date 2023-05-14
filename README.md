@@ -26,6 +26,7 @@ Here are some good reads on Chef
     * [09-What is chef role?](https://www.tutorialspoint.com/chef/chef_roles.htm)
     * [10-What is chef supermarket](https://www.chef.io/blog/using-chef-supermarket-a-guided-tour)
     * [11-Chef test kitchen](https://www.tutorialspoint.com/chef/chef_test_kitchen_setup.htm)
+    * [12-Chef environment](https://docs.chef.io/environments/)
 
     
 
